@@ -1,0 +1,12 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color:  hsl(30, 54%, 90%);
+}
+.container{
+    background-color: hsl(0, 0%, 100%);
+    
+}
+.container_2{
+    background-color: hsl(330, 100%, 98%);
+}
