@@ -1,0 +1,3 @@
+[submodule "Recipe_page"]
+	path = Recipe_page
+	url = https://github.com/Samruddhiprabhu/Recipe_Page.git
